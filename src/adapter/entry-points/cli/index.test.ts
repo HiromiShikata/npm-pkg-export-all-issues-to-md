@@ -1,6 +1,5 @@
 import { execSync } from 'child_process';
 
-
 describe('npx script execution test', () => {
   describe('help', () => {
     it('should display the full help message without error', async () => {
